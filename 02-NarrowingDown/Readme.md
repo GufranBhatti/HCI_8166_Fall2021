@@ -1,3 +1,7 @@
+# GROUP MEMBERS:
+# Gufran Bhatti 64386
+# Sarim Amir 63686
+# Wajid Khan 62584
 Best 3 ideas:
 1) The split A/B Model
 2) Recorded Videos
